@@ -373,7 +373,6 @@ body {
 }
 
 .footer-social:hover {
-
   transform: scale(1.07);
   border: 1px dotted white;
   border-radius: 4px;
