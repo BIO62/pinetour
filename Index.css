@@ -266,7 +266,6 @@ body {
   align-items: center;
   background-color: white;
   transition: transform 0.3s;
-  ;
 }
 
 .fame2:hover {
@@ -282,8 +281,6 @@ body {
   text-align: center;
   text-underline-position: from-font;
   text-decoration-skip-ink: none;
-
-
 }
 
 .luxury-name {
